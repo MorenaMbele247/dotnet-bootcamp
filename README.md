@@ -11,9 +11,9 @@ The entire project relies on `git` to work. Apart from forking the repo, each le
 
 ## Levels
 
-| Level | Branch                                                                                            | Build Status |
-| ----- | ------------------------------------------------------------------------------------------------- | ------------ |
-| One   | [`level-1-pass-the-test`](https://github.com/gitsocks/dotnet-bootcamp/tree/level-1-pass-the-test) |              |
+| Level | Branch                                                                                            | Build Status                                                                                                                                   |
+| ----- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| One   | [`level-1-pass-the-test`](https://github.com/gitsocks/dotnet-bootcamp/tree/level-1-pass-the-test) | ![example workflow](https://github.com/gitsocks/dotnet-bootcamp/actions/workflows/level-1-pass-the-test.yml/badge.svg?branch=level-1-solution) |
 
 ## Contributing
 
